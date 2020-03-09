@@ -10,6 +10,9 @@ All the material used during the KEP is included in this folder.
 and you can play with Nvidia Gaugan [here](http://nvidia-research-mingyuliu.com/gaugan)
 
 
+## Attendee Submission
+Submission of attendees of Deep Learning KEP
+
 
 ## Contact
 For any doubts feel free to open an issue.
