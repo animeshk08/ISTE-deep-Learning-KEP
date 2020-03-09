@@ -13,6 +13,12 @@ and you can play with Nvidia Gaugan [here](http://nvidia-research-mingyuliu.com/
 ## Attendee Submission
 Submission of attendees of Deep Learning KEP
 
+## Assignments
+Directory containing some assignments for future reference and interest.
+
+##Assignment Submission
+Please submit your PR of any of the assignments to this directory
+
 
 ## Contact
 For any doubts feel free to open an issue.
