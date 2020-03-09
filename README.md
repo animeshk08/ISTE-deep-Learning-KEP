@@ -7,6 +7,7 @@ The repo is organised as follows:
 All the material used during the KEP is included in this folder.
 
 > Note: The image segmentation example can be found [here](https://www.tensorflow.org/tutorials/images/segmentation)
+and you can play with Nvidia Gaugan [here](http://nvidia-research-mingyuliu.com/gaugan)
 
 
 
